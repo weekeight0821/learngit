@@ -1,2 +1,2 @@
-# learngit
-this is master git
+# learng
+this is learn git filet
